@@ -1,0 +1,40 @@
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -c -do "run 3000" work.processor_tb -c -do "exit" 
+# Start time: 10:25:05 on Apr 06,2020
+# ** WARNING: ModelSim PE Student Edition license key will expire as of (null).
+#   Please go to http://www.model.com and download the ModelSim PE Student Edition update.
+# Loading work.processor_tb
+# Loading work.clkgenerator
+# Loading work.mux
+# Loading work.addressmux
+# Loading work.processor
+# Loading work.RegisterFile
+# Loading work.DMA
+# Loading work.IODevice2
+# Loading work.IODevice1
+# Loading work.memory
+# run 3000
+# end
+# end
+# end
+# end
+# exit
+# End time: 10:25:09 on Apr 06,2020, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0

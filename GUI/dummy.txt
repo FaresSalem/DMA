@@ -1,0 +1,41 @@
+    if (MainFrame.step_count == 0):      
+        MainFrame.step_count = 1        
+        # subprocess.run(["vsim", "-c", "-do", "run 600",  "work.tb_full"])
+    else:
+        # subprocess.run(["vsim", "-c", "-do", "run 600","exit"])
+
+    i = 100
+    # p = Process(target=Import_RegisterFile)
+    # p.start()
+    # subprocess.run(["vsim", "-c", "-do", "run 6000",  "work.tb_full", "-c", "-do", "exit"])
+    if (MainFrame.step_count == 0):
+        MainFrame.step_count += 1
+        os.system("start /B start cmd.exe @cmd /k vsim -do run 100 work.tb_full -c do exit")
+        # subprocess.run(["vsim", "-do", "run 100",  "work.tb_full", "-c", "-do", "exit"])
+        Import_RegisterFile()
+        # subprocess.run(["vsim", "-c", "-do", "run 600",  "work.tb_full", "-c", "-do","source test.tcl"])
+    else:                                                    # "-c", "-do", "looping.do", "exit"
+        print("bye")
+        MainFrame.step_count += 1
+        # subprocess.run(["vsim", "-do", "run {}".format(MainFrame.step_count*i),  "work.tb_full", "-c", "-do", "exit"])
+        os.system("start /B start cmd.exe @cmd /k vsim -do run 100 work.tb_full -c do exit")
+
+        Import_RegisterFile()
+        
+     # Import_RegisterFile() 
+    # Import_DataMemory()
+    # run_in_parallel(modelsim, Import_RegisterFile)
+    
+def modelsim():
+    subprocess.run(["vsim", "-c", "-do", "run 600",  "work.tb_full", "-c", "-do","source test.tcl"])
+    
+def run_in_parallel(*fns):
+    proc=[]
+    for fn in fns:
+        p = Process(target=fn)
+        p.start()
+        proc.append(p)
+    for p in proc:
+        p.join()
+        
+        

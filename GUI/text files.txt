@@ -1,0 +1,10 @@
+interrupt1.txt
+interrupt2.txt
+Processor.txt
+DMA.txt
+memory.txt
+IO1_status.txt
+IO2_status.txt
+instructionfile.txt
+buffermemory1.mem
+buffermemory2.mem

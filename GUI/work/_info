@@ -1,0 +1,456 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Muhammad/college/3rd cse/First Term/Lab
+vaddressmux
+Z0 !s110 1577445556
+!i10b 1
+!s100 1hX@;?W7dJ4e@UV[cPYIB0
+IRm@>P7TL?Nl0XKFIMlE?]2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/fares/Desktop/year work/DMA proj/GUI
+Z3 w1577383187
+Z4 8DMA_Project.v
+Z5 FDMA_Project.v
+L0 14
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1577445556.000000
+Z8 !s107 TestBench.v|RegFile.v|Processor.v|memory.v|iodevice2.v|iodevice1.v|DMA_Project.v|
+Z9 !s90 -work|work|DMA_Project.v|iodevice1.v|iodevice2.v|memory.v|Processor.v|RegFile.v|TestBench.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vclkgenerator
+R0
+!i10b 1
+!s100 [mn^4hEc[MRmP[]C7K0Y42
+I^8JSRjG1C2[=?T^_zed>?1
+R1
+R2
+R3
+R4
+R5
+L0 28
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vclkgenertor
+R0
+!i10b 1
+!s100 ZcAE6`J<g@io8:>=VARmX2
+IFX4XEG5nUSb7PP8lBgFOz1
+R1
+R2
+Z11 w1577445479
+Z12 8iodevice2.v
+Z13 Fiodevice2.v
+L0 350
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vDMA
+R0
+!i10b 1
+!s100 Ni4DT_2f`zfnM_:7Xk1OT1
+Im^T<TTjmFLFcCkYd241Id1
+R1
+R2
+R3
+R4
+R5
+L0 56
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@d@m@a
+vinterrupt1_test
+Z14 !s110 1577361242
+!i10b 1
+!s100 G4Ifd>n^1C[bi5[nJ2X;g2
+I[P:7`1Z@5gWRbK?c?1K1S2
+R1
+R2
+Z15 w1577361103
+Z16 8C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice1.v
+Z17 FC:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice1.v
+L0 373
+R6
+r1
+!s85 0
+31
+Z18 !s108 1577361241.000000
+Z19 !s107 C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice1.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice1.v|
+!s101 -O0
+!i113 1
+R10
+vinterrupt2_test
+R14
+!i10b 1
+!s100 M[<EIVaSRN5Ne]MjSZab^2
+I:l4mKM5]I8CFVVg3lN;g>0
+R1
+R2
+Z21 w1577361234
+Z22 8C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice2.v
+Z23 FC:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice2.v
+L0 360
+R6
+r1
+!s85 0
+31
+Z24 !s108 1577361242.000000
+Z25 !s107 C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice2.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice2.v|
+!s101 -O0
+!i113 1
+R10
+vinterrupt_test
+!s110 1576654759
+!i10b 1
+!s100 idce7C87_zzf[CEWRfYLo2
+I?KJ7AC25W0b<J[kG=Q??j3
+R1
+Z27 dC:/Users/Muhammad/Desktop/project/dma
+w1576654112
+8C:/Users/Muhammad/Desktop/project/dma/iodevice2.v
+FC:/Users/Muhammad/Desktop/project/dma/iodevice2.v
+L0 250
+R6
+r1
+!s85 0
+31
+!s108 1576654759.000000
+!s107 C:/Users/Muhammad/Desktop/project/dma/iodevice2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Muhammad/Desktop/project/dma/iodevice2.v|
+!s101 -O0
+!i113 1
+R10
+vIODevice
+!s110 1576654116
+!i10b 1
+!s100 RV5`e:ezoODD1lWjf5ZjO2
+INAC0?ahh8[fkmDf6ddV2B1
+R1
+R27
+w1576595859
+Z28 8C:/Users/Muhammad/Desktop/project/dma/iodevice1.v
+Z29 FC:/Users/Muhammad/Desktop/project/dma/iodevice1.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1576654115.000000
+Z30 !s107 C:/Users/Muhammad/Desktop/project/dma/iodevice1.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Muhammad/Desktop/project/dma/iodevice1.v|
+!s101 -O0
+!i113 1
+R10
+n@i@o@device
+vIODevice1
+R0
+!i10b 1
+!s100 D31X^PT=kZ`dgh[HH8`[X2
+I@hVA;@QE>bE[5Le[Z0Ua=0
+R1
+R2
+w1577445439
+8iodevice1.v
+Fiodevice1.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@i@o@device1
+vIODevice2
+R0
+!i10b 1
+!s100 Y@7L@mgml;9Hi>ENR?LgY1
+Ia0bledCY9h>_lYEC09nTS1
+R1
+R2
+R11
+R12
+R13
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@i@o@device2
+vmemory
+R0
+!i10b 1
+!s100 Nc75EhOj<Yc36X_lX]QBZ1
+I]FeM]0eM]6Ycg<eYJ3B0G0
+R1
+R2
+w1577438893
+8memory.v
+Fmemory.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vmux
+R0
+!i10b 1
+!s100 =5ibLDMXk[MZ`GNd4RLc?2
+Id>m2b`2Q_RDTA31YkQ`W:3
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vnewtest
+!s110 1576595663
+!i10b 1
+!s100 GaQcJMi:_^`U>eozcMH^j3
+IHbanRzj5mR@Th1NOc:D[?2
+R1
+R27
+w1576592765
+R28
+R29
+L0 133
+R6
+r1
+!s85 0
+31
+!s108 1576595663.000000
+R30
+R31
+!s101 -O0
+!i113 1
+R10
+vnewtest1
+!s110 1577361241
+!i10b 1
+!s100 ;k1nob:nFUdSM[mDO4a8C3
+IbIk7`16IcDQS1AMEBI98A1
+R1
+R2
+R15
+R16
+R17
+L0 210
+R6
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+!i113 1
+R10
+vnewtest2
+R14
+!i10b 1
+!s100 CF3<L?X:O9dWlbPFl`N@M1
+Ib9?P]7O:ERGP@T0RP<SiE3
+R1
+R2
+R21
+R22
+R23
+L0 199
+R6
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+!i113 1
+R10
+vprocessor
+R0
+!i10b 1
+!s100 M2XIhaAG3?R]agXMc7DaS1
+IYd;n3?CEBEDNYU4nMn_=D0
+R1
+R2
+w1577396891
+8Processor.v
+FProcessor.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vprocessor_tb
+!s110 1577445557
+!i10b 1
+!s100 O3B]mHjB]9X6]l9fSMhoZ0
+IH4S49D^h;=j?IKfQE7KRf2
+R1
+R2
+w1577381569
+8TestBench.v
+FTestBench.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vRegisterFile
+R0
+!i10b 1
+!s100 CJ30T9P2mE^Jna@eMO_W^0
+IWJS]1C6^c6n=L^Y[51zjB1
+R1
+R2
+w1577382177
+8RegFile.v
+FRegFile.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@register@file
+vtestbench
+R14
+!i10b 1
+!s100 HUDl>Fa3OR19Hc02hZR9C2
+I4a[31^W:kQk=E84c<Xh_h2
+R1
+R2
+R21
+R22
+R23
+L0 288
+R6
+r1
+!s85 0
+31
+R24
+R25
+R26
+!s101 -O0
+!i113 1
+R10
+vtestbench123456
+!s110 1576349835
+!i10b 1
+!s100 gVT`MT3<ZEHeaSSbB>SUn3
+I3Dn4Hg[>74Po@aISRQZC62
+R1
+R27
+w1576349832
+8C:/Users/Muhammad/Desktop/project/dma/iodevice.v
+FC:/Users/Muhammad/Desktop/project/dma/iodevice.v
+L0 66
+R6
+r1
+!s85 0
+31
+!s108 1576349835.000000
+!s107 C:/Users/Muhammad/Desktop/project/dma/iodevice.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Muhammad/Desktop/project/dma/iodevice.v|
+!s101 -O0
+!i113 1
+R10
+vtestmemory
+!s110 1577369941
+!i10b 1
+!s100 cm90HVS]7@nQK^F<RFclb0
+IdG5aVg@dO`^DF:CD93F;a2
+R1
+R2
+w1577369909
+8C:\Users\fares\Desktop\year work\DMA proj\GUI\memory.v
+FC:\Users\fares\Desktop\year work\DMA proj\GUI\memory.v
+L0 100
+R6
+r1
+!s85 0
+31
+!s108 1577369941.000000
+!s107 C:\Users\fares\Desktop\year work\DMA proj\GUI\memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\fares\Desktop\year work\DMA proj\GUI\memory.v|
+!s101 -O0
+!i113 1
+R10

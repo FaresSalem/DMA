@@ -1,0 +1,60 @@
+{C:/Users/fares/Desktop/year work/DMA proj/GUI/TestBench.v} {1 {vlog -work work -stats=none {C:/Users/fares/Desktop/year work/DMA proj/GUI/TestBench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module processor_tb
+
+Top level modules:
+	processor_tb
+
+} {} {}} {C:/Users/fares/Desktop/year work/DMA proj/GUI/Processor.v} {1 {vlog -work work -stats=none {C:/Users/fares/Desktop/year work/DMA proj/GUI/Processor.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module processor
+
+Top level modules:
+	processor
+
+} {} {}} {C:/Users/fares/Desktop/year work/DMA proj/GUI/DMA_Project.v} {1 {vlog -work work -stats=none {C:/Users/fares/Desktop/year work/DMA proj/GUI/DMA_Project.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux
+-- Compiling module addressmux
+-- Compiling module clkgenerator
+-- Compiling module DMA
+
+Top level modules:
+	mux
+	addressmux
+	clkgenerator
+	DMA
+
+} {} {}} {C:/Users/fares/Desktop/year work/DMA proj/GUI/memory.v} {1 {vlog -work work -stats=none {C:/Users/fares/Desktop/year work/DMA proj/GUI/memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} {C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice1.v} {1 {vlog -work work -stats=none {C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IODevice1
+-- Compiling module clkgenertor
+
+Top level modules:
+	IODevice1
+	clkgenertor
+
+} {} {}} {C:/Users/fares/Desktop/year work/DMA proj/GUI/RegFile.v} {1 {vlog -work work -stats=none {C:/Users/fares/Desktop/year work/DMA proj/GUI/RegFile.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice2.v} {1 {vlog -work work -stats=none {C:/Users/fares/Desktop/year work/DMA proj/GUI/iodevice2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IODevice2
+-- Compiling module clkgenertor
+
+Top level modules:
+	IODevice2
+	clkgenertor
+
+} {} {}}
